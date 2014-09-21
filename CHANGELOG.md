@@ -18,7 +18,7 @@ Added Files
 Deprecated Files
 ----
 |Background Assets|Control Assets|Misc Assets|Panel Assets|
-|--------|--------|
+|--------|--------|--------|--------|
 |hightlight.png|close.png|corner-ripple.png|applet-box-active.png|
 |popup-1.png|close-hover.png|popup-menu-item-hover.png|applet-box-active-hover.png|
 |popup-2.png|on.png|sub-menu-item-active.png|applet-box-active-2.png|
