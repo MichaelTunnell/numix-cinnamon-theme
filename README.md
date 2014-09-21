@@ -2,7 +2,6 @@ MT Numix-Cinnamon
 ====================
 
 **Author:** Michael Tunnell (http://michaeltunnell.com)
-
 **Forked from:** zagortenay333
 
 **Version:** 4.0
