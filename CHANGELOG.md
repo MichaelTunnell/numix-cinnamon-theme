@@ -29,6 +29,9 @@ Deprecated Files
 
 CSS Changes
 ---
+
+For a full breakdownof the changes compare the files
+
 **.toggle-switch-us:checked, .toggle-switch-intl:checked** || **.workspace-add-button** || **.workspace-add-button:hover** || **.workspace-close-button** || **.workspace-close-button:hover** || **.window-close** || **.window-close:hover** || **.window-list-item-demands-attention** || **.workspace-button:outlined:hover** || **.stopwatch-day-exceeded** || **.stopwatch-running-day-exceeded** || **.stopwatch-paused-day-exceeded** || **.numa-alert** || **.numa-limit-exceeded**
 > converted asset to SVG
 
