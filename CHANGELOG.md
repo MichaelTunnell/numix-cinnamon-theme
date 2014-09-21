@@ -2,7 +2,9 @@ CHANGELOG
 ===
 
 Version: 4.0
+
 Date: 2014-09-21
+
 This is the first version of the MT Enhancement to this theme. All of the changes below apply to this initial version.
 
 Added Files
