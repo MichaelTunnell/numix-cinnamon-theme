@@ -37,8 +37,8 @@ StScrollView StScrollBar {
 StScrollBar StBin#trough {
     background-color: #333;
     border: 1px solid #484848;
-    border-radius: 2px
-;}
+    border-radius: 2px;
+}
 
 StScrollBar StButton#vhandle {
     background-color: #2d2d2d;
