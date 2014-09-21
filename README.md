@@ -2,6 +2,7 @@ MT Numix-Cinnamon
 ====================
 
 **Author:** Michael Tunnell (http://michaeltunnell.com)
+
 **Forked from:** zagortenay333
 
 **Version:** 4.0
@@ -25,10 +26,13 @@ The improvements that I've  made with Mt-Numix-Cinnamon theme are 8 SVGs Created
 ----
 
 **Download:**
-you already have it downloaded. :)
+http://dl.bintray.com/michaeltunnell/MT-Numix-Cinnamon/mt-numix-cinnamon-theme.tar.gz
 
 **Source on GitHub:**
 https://github.com/MichaelTunnell/numix-cinnamon-theme
+
+**Installation Instructions:**
+Can be found on the [Project Page](http://michaeltunnell.com/projects/24-linux-mint/50-mt-numix-cinnamon) on my website.
 
 ---
 
